@@ -2,6 +2,7 @@
 owner = LON
 controller = LON
 add_core = LON
+add_core = CAS
 culture = leonese
 religion = catholic
 hre = no

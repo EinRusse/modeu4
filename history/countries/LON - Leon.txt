@@ -3,4 +3,12 @@ add_government_reform = feudalism_reform
 primary_culture = leonese
 religion = catholic
 technology_group = western
-capital = 208 #Leon
+capital = 208#Leon
+1444.11.11 = {
+	monarch = {
+		name = "Vitoro de Leon"
+		dip = 3
+		adm = 3
+		mil = 3
+	}
+}
