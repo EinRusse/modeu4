@@ -1,7 +1,0 @@
-# Portuguese Vassal 
-vassal = {
-	first = POR
-	second = LON
-	start_date = 1444.11.11
-	end_date = 1807.12.10
-}

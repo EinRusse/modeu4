@@ -1,6 +1,6 @@
 #1747 - Caceres
-owner = LON
-controller = LON
+owner = CAS
+controller = CAS
 add_core = LON
 add_core = CAS
 culture = leonese
